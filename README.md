@@ -1,5 +1,5 @@
 ## André Grillo
-### Hello, Devs!! 👋
+### 👋 Hello, Devs!! 
 
 <!--
 **andrellgrillo/andrellgrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
