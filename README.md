@@ -1,8 +1,10 @@
 ## André Grillo
 ### 👋 Hello, Devs!! 
 
-<img height="180em" src="https://github-readme-stats.verce.app/api?username=andrellgrillo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/>
-<img height="180em" src="https://github-readme-stats.verce.app/top-lang/api?username=andrellgrillo&layout_compact&langs_count=16&theme=dracula/>
+<div>
+  <img height="180em" src="https://github-readme-stats.verce.app/api?username=andrellgrillo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/>
+  <img height="180em" src="https://github-readme-stats.verce.app/top-lang/api?username=andrellgrillo&layout_compact&langs_count=16&theme=dracula/>
+</div>
 
 <!--
 **andrellgrillo/andrellgrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
