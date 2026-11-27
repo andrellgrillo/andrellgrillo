@@ -6,7 +6,7 @@ count:
   orgs: true
 look:
   style: dotmatrix
-  color: cyan
+  color: purple
   background: 070c0d
 cards:
   about:
