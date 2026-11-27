@@ -5,7 +5,7 @@ count:
   private: true
   orgs: true
 look:
-  style: dotmatrix
+  style: floating
   color: purple
   background: 070c0d
 cards:
